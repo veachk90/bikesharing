@@ -3,6 +3,8 @@
 #### Overview
 Bikeshare services are growing in popularity in New York City as commuters look for quick and convenient transportation methods. The purpose of this analysis, then, is to use the available data for NYC to show that, given the nature of traffic in large cities, there is similar demand to be met in Des Moines, Iowa. Specifically, we are looking for investors to help launch a bikesharing service in a new area. The data and graphics can be used to determine which demographics may be most interested in using such a service.
 
+[link to dashboard](https://public.tableau.com/app/profile/veachk90/viz/NYCTripData/NYCBikesharing?publish=yes)
+
 #### Results
 Time for the start of each ride that ended during the week. This graphic shows that most users are likely using bikesharing for their daily commutes.
 ![Ride Start Times](https://github.com/veachk90/bikesharing/blob/main/Screenshot%20(188).png)
